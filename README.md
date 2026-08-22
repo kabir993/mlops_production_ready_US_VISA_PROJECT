@@ -20,3 +20,10 @@ git push origin main
 conda create -n visa python=3.11.15 -y
 conda activate visa
 pip install -r requirements.txt
+
+# Workflow:
+constants
+entity
+components
+pipeline
+Main file
